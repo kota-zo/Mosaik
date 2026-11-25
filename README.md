@@ -18,12 +18,4 @@ from your phone: no server in the middle reads your messages.
 
 Each APK's SHA-256 is given in its release notes.
 
----
-
-**Français.** Tous vos messages dans une seule app Android. Mosaik est en bêta : téléchargez l'APK
-dans [Releases](https://github.com/kota-zo/Mosaik/releases) (la *pre-release* la plus récente) ;
-ensuite l'app propose elle-même les nouvelles versions. Les réseaux n'acceptent pas les apps non
-officielles et peuvent, rarement, limiter un compte qui en utilise une. Retours et code Premium
-de 7 jours offert : sur le [Discord de Mosaik](https://discord.gg/Nzz67Vp6ZQ).
-
 The app's licence: [PolyForm Noncommercial 1.0.0](LICENSE).
