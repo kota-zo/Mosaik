@@ -2,8 +2,8 @@
 
 <h1 align="center">Mosaik</h1>
 
-All your messages in one Android app: WhatsApp, Instagram, Telegram, Discord, Snapchat and your
-phone's SMS, each with its own look or one unified look. Mosaik connects straight to each network
+All your messages in one Android app: WhatsApp, Instagram, Telegram, Discord and Snapchat,
+each with its own look or one unified look. Mosaik connects straight to each network
 from your phone: no server in the middle reads your messages.
 
 **Mosaik is in beta.** Download the APK from [Releases](https://github.com/kota-zo/Mosaik/releases)
