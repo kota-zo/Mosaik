@@ -1,4 +1,6 @@
-# Mosaik
+<p align="center"><img src=".github/icon.png" width="120" alt="Mosaik"></p>
+
+<h1 align="center">Mosaik</h1>
 
 All your messages in one Android app: WhatsApp, Instagram, Telegram, Discord, Snapchat and your
 phone's SMS, each with its own look or one unified look. Mosaik connects straight to each network
