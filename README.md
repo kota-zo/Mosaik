@@ -8,7 +8,7 @@ from your phone: no server in the middle reads your messages.
 (the newest *pre-release*), install it, and Mosaik offers the next versions itself
 (Settings → About Mosaik).
 
-- Android 8 or newer, 64-bit ARM phone.
+- Android 10 or newer, 64-bit ARM phone.
 - Mosaik is not made by Meta, WhatsApp, Instagram, Telegram, Discord or Snap. Networks don't
   support unofficial apps: in rare cases they may limit an account that uses one. Use a secondary
   account if yours matters a lot to you.
